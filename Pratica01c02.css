@@ -1,0 +1,35 @@
+h1{
+    color: black;
+    font-size: 60px;
+    font-family: "Times New Roman";
+    text-align: center;
+    margin-top: 25px;
+}
+p{
+    text-indent: 20px;
+}
+h2{
+    color: rgb(132, 182, 78);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';
+    text-align: justify;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right:10px;
+}   
+h3{
+    color: rgb(83, 142, 56);
+    font-size: 20px;
+    font-family: "Arial";
+    text-align: justify;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+h4{color: rgb(68, 98, 35);
+    font-size: 20px;
+    font-family: "Verdana";
+    text-align: justify;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;}
